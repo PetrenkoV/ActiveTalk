@@ -1,0 +1,567 @@
+/* Shutter In Vertical */
+/* line 6, ../scss/style.scss */
+header {
+  background: url(images/bg.png);
+  width: 100%;
+  height: 504px;
+  max-width: 1920px;
+  min-width: 1450px;
+}
+/* line 12, ../scss/style.scss */
+header .header-1 {
+  width: 1300px;
+  margin: 0 auto;
+}
+/* line 16, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-left {
+  background: url(images/iMac-Flat.png);
+  height: 417px;
+  width: 574px;
+  margin-top: 88px;
+}
+/* line 23, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right {
+  width: 618px;
+  margin-top: 79px;
+  margin-left: 81px;
+  float: left;
+}
+/* line 29, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right p {
+  font: 700 120px/40px PTSans;
+  color: white;
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 50%;
+  font-family: RobotoCondensed;
+}
+/* line 37, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right span {
+  font: 45px/52px PTSans;
+  font-size: 40px;
+  font-weight: 400;
+  color: white;
+}
+/* line 43, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right p.headertxt {
+  color: #333;
+  font-size: 25px;
+  margin-top: 0;
+}
+/* line 48, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right p.headertxt span {
+  font-weight: 700;
+  color: #333;
+}
+/* line 53, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right button {
+  border: 1px solid white;
+  width: 348px;
+  height: 63px;
+  border-color: white;
+  background: #fc8e23;
+  border-radius: 5px;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 35px;
+  margin-left: 130px;
+}
+/* line 66, ../scss/style.scss */
+header .header-1 .uk-width-1-2.uk-float-right button:hover {
+  transition: all 0.5s ease;
+  background: #00b890;
+  border-color: #fc8e23;
+  color: #fc8e23;
+}
+
+/* line 76, ../scss/style.scss */
+.header-line {
+  width: 100%;
+  max-width: 1920px;
+  min-width: 980px;
+  height: 17px;
+  background: url(images/line.png) repeat-x;
+}
+
+/* line 83, ../scss/style.scss */
+.uk-container-center.section1 {
+  width: 980px;
+  height: 500px;
+}
+/* line 86, ../scss/style.scss */
+.uk-container-center.section1 .uk-text-center {
+  margin-top: 57px;
+  font-size: 35px;
+  color: #333;
+  line-height: 40px;
+}
+/* line 91, ../scss/style.scss */
+.uk-container-center.section1 .uk-text-center span {
+  font-weight: bolder;
+}
+/* line 97, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-2.uk-float-left.left .uk-width-1-10.uk-float-left p {
+  font-size: 40px;
+  color: #00b890;
+  margin-top: 50px;
+}
+/* line 103, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-2.uk-float-left.left .uk-width-8-10.uk-float-left {
+  margin-top: 10px;
+}
+/* line 105, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-2.uk-float-left.left .uk-width-8-10.uk-float-left p {
+  margin-top: 30px;
+  font-size: 16px;
+}
+/* line 108, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-2.uk-float-left.left .uk-width-8-10.uk-float-left p span {
+  font-weight: bolder;
+}
+/* line 115, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-3.uk-float-left.right .uk-text-center.first {
+  margin-top: 35px;
+}
+/* line 117, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-3.uk-float-left.right .uk-text-center.first p {
+  color: #00b890;
+  font-size: 25px;
+  line-height: 150%;
+}
+/* line 122, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-3.uk-float-left.right .uk-text-center.first p span {
+  font-size: 50px;
+  font-weight: bolder;
+}
+/* line 128, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-3.uk-float-left.right .uk-text-center.second {
+  margin-top: 20px;
+}
+/* line 130, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-3.uk-float-left.right .uk-text-center.second p {
+  color: #fc8e23;
+  font-size: 25px;
+  line-height: 150%;
+}
+/* line 134, ../scss/style.scss */
+.uk-container-center.section1 .uk-width-1-3.uk-float-left.right .uk-text-center.second p span {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+/* line 142, ../scss/style.scss */
+.uk-width-1-1.section2 {
+  height: 162px;
+  width: 100%;
+  background: #6eddc1;
+}
+/* line 147, ../scss/style.scss */
+.uk-width-1-1.section2 .uk-text-center p {
+  position: relative;
+  top: 50px;
+  padding-bottom: 20px;
+  color: #000;
+  font-size: 40px;
+  font-weight: bolder;
+}
+/* line 154, ../scss/style.scss */
+.uk-width-1-1.section2 .uk-text-center p span {
+  font-size: 35px;
+  color: white;
+}
+
+/* line 161, ../scss/style.scss */
+.uk-container-center.section3 {
+  width: 980px;
+  height: 300px;
+}
+/* line 164, ../scss/style.scss */
+.uk-container-center.section3 img {
+  float: left;
+}
+/* line 167, ../scss/style.scss */
+.uk-container-center.section3 .uk-width-1-1 {
+  margin-top: 51px;
+  height: 96px;
+}
+/* line 170, ../scss/style.scss */
+.uk-container-center.section3 .uk-width-1-1 .center {
+  padding-left: 30px;
+}
+/* line 173, ../scss/style.scss */
+.uk-container-center.section3 .uk-width-1-1 .top {
+  padding-top: 15px;
+}
+/* line 176, ../scss/style.scss */
+.uk-container-center.section3 .uk-width-1-1 .uk-width-1-5 {
+  float: left;
+  height: 96px;
+}
+
+/* line 183, ../scss/style.scss */
+.uk-width-1-1.section4 {
+  background: url(images/bg7.png);
+  max-width: 1920px;
+  height: 882px;
+}
+/* line 187, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-text-center {
+  color: #333333;
+  font-size: 40px;
+  padding-top: 80px;
+}
+/* line 192, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.section4-1 {
+  width: 980px;
+  margin-top: 50px;
+  height: 320px;
+}
+/* line 196, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.section4-1 .uk-width-1-3 {
+  float: left;
+  padding-bottom: 20px;
+}
+/* line 199, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.section4-1 .uk-width-1-3 p {
+  font-size: 23px;
+  line-height: 110%;
+}
+/* line 202, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.section4-1 .uk-width-1-3 p span {
+  color: #00b890;
+}
+/* line 206, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.section4-1 .uk-width-1-3 img {
+  padding-left: 110px;
+}
+/* line 212, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.uk-width-1-2.uk-text-center p {
+  font-size: 40px;
+  line-height: 110%;
+}
+/* line 215, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.uk-width-1-2.uk-text-center p span {
+  color: #00b890;
+  font-weight: bolder;
+}
+/* line 220, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.uk-width-1-2.uk-text-center button {
+  border: 1px solid white;
+  width: 348px;
+  height: 63px;
+  border-color: white;
+  background: #fc8e23;
+  border-radius: 5px;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 35px;
+}
+/* line 231, ../scss/style.scss */
+.uk-width-1-1.section4 .uk-container-center.uk-width-1-2.uk-text-center button:hover {
+  transition: all 0.5s ease;
+  background: #00b890;
+  border-color: #fc8e23;
+  color: #fc8e23;
+}
+
+/* line 240, ../scss/style.scss */
+.uk-container-center.section5 {
+  width: 980px;
+  height: 1660px;
+}
+/* line 243, ../scss/style.scss */
+.uk-container-center.section5 .uk-text-center {
+  margin-top: 40px;
+}
+/* line 245, ../scss/style.scss */
+.uk-container-center.section5 .uk-text-center p {
+  font-size: 26px;
+}
+/* line 247, ../scss/style.scss */
+.uk-container-center.section5 .uk-text-center p span {
+  font-weight: bolder;
+}
+/* line 252, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left {
+  margin-top: 80px;
+}
+/* line 258, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right {
+  margin-top: 120px;
+  float: right;
+}
+/* line 261, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.first {
+  height: 70px;
+}
+/* line 263, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.first p {
+  color: #fc8e23;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+}
+/* line 268, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.first p span {
+  font-weight: normal;
+  font-size: 22px;
+}
+/* line 275, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.second p {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+/* line 278, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.second p img {
+  padding-right: 20px;
+  float: left;
+}
+/* line 282, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.second p span {
+  font-weight: bolder;
+  font-size: 18px;
+}
+/* line 286, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.right .uk-text-left.second p .last {
+  padding-bottom: 40px;
+}
+/* line 293, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.first {
+  height: 70px;
+}
+/* line 295, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.first p {
+  color: #fc8e23;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+}
+/* line 300, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.first p span {
+  font-weight: normal;
+  font-size: 22px;
+}
+/* line 307, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.second p {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+/* line 310, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.second p img {
+  padding-right: 20px;
+  float: left;
+}
+/* line 314, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.second p span {
+  font-weight: bolder;
+  font-size: 18px;
+}
+/* line 318, ../scss/style.scss */
+.uk-container-center.section5 .uk-width-1-2.uk-float-left.left .uk-text-left.second p .last {
+  padding-bottom: 40px;
+}
+
+/* line 325, ../scss/style.scss */
+.uk-container-center.section6 {
+  height: 400px;
+}
+/* line 328, ../scss/style.scss */
+.uk-container-center.section6 .uk-text-center p {
+  color: #00b890;
+  font-size: 28px;
+}
+/* line 331, ../scss/style.scss */
+.uk-container-center.section6 .uk-text-center p span {
+  font-weight: bolder;
+}
+/* line 336, ../scss/style.scss */
+.uk-container-center.section6 .uk-container-center.section6-1 {
+  width: 980px;
+}
+/* line 338, ../scss/style.scss */
+.uk-container-center.section6 .uk-container-center.section6-1 .uk-float-left.left {
+  margin-top: 40px;
+}
+/* line 341, ../scss/style.scss */
+.uk-container-center.section6 .uk-container-center.section6-1 .uk-float-left.left .uk-text-center.first p.first {
+  color: #fc8e23;
+}
+/* line 344, ../scss/style.scss */
+.uk-container-center.section6 .uk-container-center.section6-1 .uk-float-left.left .uk-text-center.first p {
+  font-size: 22px;
+  color: #000;
+}
+/* line 353, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-1-10.uk-float-left {
+  margin-top: 25px;
+}
+/* line 355, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-1-10.uk-float-left p.uk-border-circle {
+  border: 2px solid #fc8e23;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  color: #fc8e23;
+  font-size: 22px;
+  line-height: 40px;
+}
+/* line 364, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-1-10.uk-float-left p.uk-border-circle.last {
+  background: #fc8e23;
+  color: white;
+}
+/* line 370, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-8-10.uk-float-left {
+  margin-top: 10px;
+}
+/* line 372, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-8-10.uk-float-left p {
+  margin-bottom: 30px;
+  line-height: 25px;
+  margin-top: 20px;
+  padding-left: 20px;
+}
+/* line 377, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-8-10.uk-float-left p span {
+  font-weight: bolder;
+}
+/* line 381, ../scss/style.scss */
+.uk-container-center.section6 .uk-width-1-2.uk-float-left.right .uk-width-8-10.uk-float-left p.last {
+  color: #fc8e23;
+  font-size: 20px;
+}
+
+/* line 388, ../scss/style.scss */
+.uk-width-1-1.section7 {
+  background: url(images/bg3.png);
+  max-width: 1920px;
+  width: 100%;
+  min-width: 980px;
+  height: 625px;
+  padding-top: 80px;
+}
+/* line 396, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-text-center p {
+  font-size: 28px;
+  color: white;
+}
+/* line 399, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-text-center p span {
+  font-size: 34px;
+  font-weight: bolder;
+}
+/* line 405, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 {
+  margin-top: 60px;
+  width: 535px;
+  height: 400px;
+}
+/* line 409, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-2-6.left {
+  float: left;
+  width: 110px;
+}
+/* line 412, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-2-6.left p {
+  margin-bottom: 45px;
+  color: #333;
+}
+/* line 417, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-4-6.right {
+  float: left;
+}
+/* line 419, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-4-6.right p input {
+  float: left;
+  width: 140px;
+  margin-right: 10px;
+}
+/* line 424, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-4-6.right input {
+  padding: 8px;
+  margin-bottom: 30px;
+  width: 270px;
+}
+/* line 429, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-4-6.right button {
+  border: 1px solid white;
+  width: 308px;
+  height: 63px;
+  border-color: white;
+  background: #fc8e23;
+  border-radius: 5px;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+/* line 440, ../scss/style.scss */
+.uk-width-1-1.section7 .uk-container-center.section7-1 .uk-width-4-6.right button:hover {
+  transition: all 0.5s ease;
+  background: #00b890;
+  border-color: #fc8e23;
+  color: #fc8e23;
+}
+
+/* line 451, ../scss/style.scss */
+.uk-text-center.section8 p {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #333;
+}
+
+/* line 457, ../scss/style.scss */
+#modal-call .uk-modal-dialog {
+  width: 400px;
+}
+
+/* line 460, ../scss/style.scss */
+#modal-registration .uk-modal-dialog {
+  width: 400px;
+}
+
+/* line 464, ../scss/style.scss */
+#modal-registration.uk-modal-dialog input {
+  width: 100%;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 0 4px;
+}
+
+/* line 471, ../scss/style.scss */
+#modal-registration.uk-modal.uk-open .uk-modal-dialog button {
+  margin-left: 0px;
+  font-size: 24px;
+  width: 300px;
+}
+
+/* line 476, ../scss/style.scss */
+#modal-registration .uk-modal-dialog input {
+  padding: 5px;
+  width: 100%;
+  border-radius: 4px;
+  height: 20px;
+  outline: 0;
+}
+
+/* line 483, ../scss/style.scss */
+#modal-registration .uk-modal-dialog {
+  padding: 50px;
+  border: 2px solid #fc8e23;
+  border-radius: 10px;
+}
+
+/* line 488, ../scss/style.scss */
+.uk-modal-dialog > .uk-close:first-child {
+  margin: -40px -40px 0 0 !important;
+  float: right;
+}
+
+/* line 492, ../scss/style.scss */
+#modal-registration .uk-modal-dialog input:focus {
+  background: #ffe8d2;
+  outline: 0;
+}
